@@ -1,3 +1,4 @@
+## A brief analysis of discource of democracy in Russia in 2000-2021
 Let's consider the use of adjectives and possessive pronouns before the word "democracy" and the results of the word2vec model. Let's start with the speeches of V. Putin and D. Medvedev. The presidents often use the adjectives "Russian" and "our" before democracy, which shows the presidents' focus on domestic development. The words "direct", "parliamentary", "representative", "electronic" indicate that the presidents are concerned with institutional issues. ![](https://github.com/alexkobz/diplom/blob/main/texts/president/president_adj_en.png) \
 As for the words used in the same context, none of them catches the eye except the word “statehood.” This confirms what was said at length in the report – the vision of democracy as a “brick” in the “building” of state governance.
 | Word | Meaning |
