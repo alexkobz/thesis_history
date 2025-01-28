@@ -38,7 +38,7 @@ The same can be said, with an adjustment for a small difference in frequency, ab
 ![](https://github.com/alexkobz/diplom/blob/main/texts/kommersant/kommersant_adj_en.png)\
 ![](https://github.com/alexkobz/diplom/blob/main/texts/vedomosti/vedomosti_adj_en.png)\
 ![](https://github.com/alexkobz/diplom/blob/main/texts/ng/ng_adj_en.png)\
-The use of adjectives looks different in the newspaper Vzglyad, on the radio Ekho Moskvy and the newspaper Zavtra.\
+The use of adjectives looks different in the newspaper Vzglyad, on  the radio station “Echo of Moscow” and the newspaper Zavtra.\
 ![](https://github.com/alexkobz/diplom/blob/main/texts/vzglyad/vzglyad_adj_en.png)\
 ![](https://github.com/alexkobz/diplom/blob/main/texts/echo/echo_adj_en.png)\
 ![](https://github.com/alexkobz/diplom/blob/main/texts/zavtra/zavtra_adj_en.png)\
